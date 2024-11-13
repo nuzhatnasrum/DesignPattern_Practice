@@ -1,0 +1,8 @@
+
+A
+java:S1659"$Declare "height" on a separate line.(ô…ð­8‘€‡ú°2
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(û˜úƒ8‘€‡ú°2
+e
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(û˜úƒ8‘€‡ú°2
+G	java:S106"+Replace this use of System.out by a logger.(Í×¡ä8‘€‡ú°2

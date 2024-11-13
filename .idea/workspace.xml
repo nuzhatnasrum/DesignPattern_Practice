@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9799972a-1e16-4e2c-b2bd-257d8e9a6624" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Pizza" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullObject/AbstractCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullObject/CustomerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullObject/NullCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullObject/NullPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullObject/RealCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/GreenLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/TrafficLightState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adappter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adappter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adappter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adappter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/CelciusReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/TemperatureClassReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/TemperatureInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/TemperatureObjectReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsibilty/Aprrover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsibilty/BankSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsibilty/BranchManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsibilty/RegionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsibilty/Teller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/CompositePatternDeno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/FileSystemComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/ConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/ConcreteDecoratorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/ConcreteDecoratorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/NameRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/PrototypePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/GooglePayPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ShoppingCart.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ob8LHJ1uCnerltnl3RJIhGCrmJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/DesignPattern_practice"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9799972a-1e16-4e2c-b2bd-257d8e9a6624" name="Changes" comment="" />
+      <created>1731126858619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731126858619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
